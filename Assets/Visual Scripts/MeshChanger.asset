@@ -15,5 +15,5 @@ MonoBehaviour:
   _data:
     _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Mesh
       Changer ","summary":"Changes the visibility of the meshes on the GlassesGroup
-      prefab","pan":{"x":27.8646,"y":7.298618},"zoom":0.8,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-362.0,"y":-101.0},"guid":"590e8112-b7e6-44e9-bf38-511094bcdc45","$version":"A","$type":"Unity.VisualScripting.OnButtonClick"}],"$version":"A"}}'
+      prefab","pan":{"x":27.8646,"y":7.298618},"zoom":0.8,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-362.0,"y":-101.0},"guid":"590e8112-b7e6-44e9-bf38-511094bcdc45","$version":"A","$type":"Unity.VisualScripting.OnButtonClick"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"glasses1Button","$type":"System.String"},"object":null},"position":{"x":-96.0,"y":-122.0},"guid":"f7045323-cda5-470f-bde0-857d663cd781","$version":"A","$type":"Unity.VisualScripting.GetVariable"}],"$version":"A"}}'
     _objectReferences: []
