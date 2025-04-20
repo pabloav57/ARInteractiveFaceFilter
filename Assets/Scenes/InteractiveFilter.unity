@@ -379,11 +379,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: GlassesGroup
       objectReference: {fileID: 0}
-    - target: {fileID: 704637145040967276, guid: 078cbc23844e15444be435a24353ecab,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 4713439290961708173, guid: 078cbc23844e15444be435a24353ecab,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -432,21 +427,6 @@ PrefabInstance:
     - target: {fileID: 4713439290961708173, guid: 078cbc23844e15444be435a24353ecab,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4735402512026409799, guid: 078cbc23844e15444be435a24353ecab,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4963097799160348962, guid: 078cbc23844e15444be435a24353ecab,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5501557990804438085, guid: 078cbc23844e15444be435a24353ecab,
-        type: 3}
-      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
